@@ -38,3 +38,8 @@ Others: br, hr, div, span
 University Declaration
 
 This project was developed as part of an academic requirement at University of Engineering & Technology (UET) Mardan to demonstrate understanding of HTML fundamentals and website structure.
+
+Copyright
+
+© 2025 Sufyan Ijaz
+For educational purposes only.
